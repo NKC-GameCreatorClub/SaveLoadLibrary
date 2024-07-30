@@ -1,5 +1,5 @@
 UMPで使用する場合はこちらです。
-https://github.com/NKC-GameCreatorClub/FujiyoshiHinaka_JBSaveLoadLibrary.git?path=Projects/JBSaveLoad
+https://github.com/NKC-GameCreatorClub/FujiyoshiHinaka_JBSaveLoadLibrary.git?path=Packages/JBSaveLoad
 
 // ご使用方法
 ①初めにusing SaveLoadLib;と記述する。
